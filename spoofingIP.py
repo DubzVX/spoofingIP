@@ -2,7 +2,7 @@
 import sys
 from scapy.all import *
 
-# How to use it
+# How to use it :
 # chmod +x spoofingIP.py
 # ./spoofingIP.py IP-Tager TCP-Port-Target
 
